@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="35px" viewBox="0 0 44 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/arrow_left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/arrow_left">
+            <g id="Group">
+                <rect id="Rectangle-3" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="44" height="35"></rect>
+                <g id="Group-3" transform="translate(11.000000, 9.000000)" fill="#000000">
+                    <path d="M10.1790124,4.22980022 L10.1779836,4.2298168 L10.0000026,2.99999985 L10.9903816,3.14721879 L19.5445632,4.19754023 C19.8288338,4.23244427 20.0309854,4.49118643 19.9960813,4.77545703 C19.9611773,5.05972763 19.7024351,5.26187917 19.4181645,5.22697513 L11.2235855,4.22080734 L12.2300449,12.4177611 C12.2649731,12.7022283 12.0626817,12.9611494 11.7782146,12.9960776 C11.4937474,13.0310058 11.2348263,12.8287144 11.1998981,12.5442473 L10.1790124,4.22980022 Z" id="Combined-Shape" fill-opacity="0.75" transform="translate(15.000001, 7.999999) rotate(135.000000) translate(-15.000001, -7.999999) "></path>
+                    <rect id="Rectangle-9" fill-opacity="0.649999976" x="0" y="8" width="12" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

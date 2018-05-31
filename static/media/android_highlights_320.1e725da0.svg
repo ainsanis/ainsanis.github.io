@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="694px" viewBox="0 0 336 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/android_export_highlights_320</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="assets/android_export_highlights_320" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16.9912044,661.790854 L16.9912044,32.0733112 C16.9912044,26.2050591 20.4847351,19.2403494 26.2075892,13.5328801 C22.1938605,15.2881446 18.493648,17.6534937 15.2530038,20.5802055 C8.8490239,26.3641472 4.87068127,33.7993424 4.87068127,39.983864 L4.87068127,653.880301 C4.87068127,660.065035 8.8490239,667.500018 15.2530038,673.28396 C18.493648,676.21046 22.1938605,678.576021 26.2075892,680.331073 C20.4847351,674.623816 16.9912044,667.659106 16.9912044,661.790854" id="left_hl" fill="url(#linearGradient-1)"></path>
+        <path d="M321.920511,661.789943 L321.920511,32.0724003 C321.920511,26.2041483 325.414042,19.2394386 331.136896,13.5319693 C327.123167,15.2872338 323.422955,17.6525829 320.18231,20.5792947 C313.77833,26.3632364 309.799988,33.7984316 309.799988,39.9829532 L309.799988,653.879391 C309.799988,660.064124 313.77833,667.499107 320.18231,673.283049 C323.422955,676.209549 327.123167,678.57511 331.136896,680.330163 C325.414042,674.622905 321.920511,667.658195 321.920511,661.789943" id="right_hl" fill="url(#linearGradient-1)" transform="translate(320.468442, 346.931066) scale(-1, 1) translate(-320.468442, -346.931066) "></path>
+    </g>
+</svg>

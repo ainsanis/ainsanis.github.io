@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="814px" viewBox="0 0 400 814" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/android_export_highlights</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="assets_export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.753057065">
+        <g id="assets/android_export_highlights" fill="url(#linearGradient-1)">
+            <g id="highlights" transform="translate(15.443601, 13.531969)">
+                <path d="M13.5465685,764.883748 L13.5465685,21.8770176 C13.5465685,14.9530391 17.4511028,6.73534487 23.8472339,0.00107466994 C19.3613018,2.07211958 15.2257702,4.8630063 11.6038737,8.31624748 C4.44648442,15.1407479 0.000101477159,23.9135701 0.000101477159,31.2107166 L0.000101477159,755.550049 C0.000101477159,762.847446 4.44648442,771.620018 11.6038737,778.444518 C15.2257702,781.89751 19.3613018,784.688646 23.8472339,786.759441 C17.4511028,780.025421 13.5465685,771.807727 13.5465685,764.883748" id="left_hl"></path>
+                <path d="M358.822501,764.882674 L358.822501,21.8759429 C358.822501,14.9519644 362.727036,6.7342702 369.123167,0 C364.637235,2.07104491 360.501703,4.86193163 356.879807,8.31517281 C349.722417,15.1396732 345.276034,23.9124954 345.276034,31.2096419 L345.276034,755.548975 C345.276034,762.846371 349.722417,771.618943 356.879807,778.443444 C360.501703,781.896435 364.637235,784.687572 369.123167,786.758367 C362.727036,780.024346 358.822501,771.806652 358.822501,764.882674" id="right_hl" transform="translate(357.199600, 393.379183) scale(-1, 1) translate(-357.199600, -393.379183) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

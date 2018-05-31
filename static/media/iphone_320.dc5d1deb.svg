@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="340px" height="634px" viewBox="0 0 340 634" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/iphone_export_320</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,49.9970289 C0,22.3844323 22.3904905,0 50.0083032,0 L289.991697,0 C317.61052,0 340,22.3781711 340,49.9970289 L340,584.002971 C340,611.615568 317.60951,634 289.991697,634 L50.0083032,634 C22.38948,634 0,611.621829 0,584.002971 L0,49.9970289 Z M53.9706745,14 C29.6701455,14 9.97067449,33.699471 9.97067449,58 L9.97067449,576 C9.97067449,600.300529 29.6701455,620 53.9706745,620 L285.032258,620 C309.332787,620 329.032258,600.300529 329.032258,576 L329.032258,58 C329.032258,33.699471 309.332787,14 285.032258,14 L53.9706745,14 Z" id="path-1"></path>
+        <filter x="-1.0%" y="-0.6%" width="102.1%" height="101.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.133520154 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.127725%" id="linearGradient-3">
+            <stop stop-color="#2B2B2B" offset="0%"></stop>
+            <stop stop-color="#262626" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-73.2%" y="-102.2%" width="246.4%" height="304.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.33091518" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-55.0%" y="-70.9%" width="210.0%" height="241.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-130.8%" y="-67.6%" width="361.7%" height="235.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.37276786" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="assets/iphone_export_320" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iphone">
+            <g id="Combined-Shape">
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Top-Notch-Copy" transform="translate(73.782991, 14.000000)">
+                <g id="Top-Notch" fill="#000000">
+                    <path d="M0,0 C2.74913384,0 5.01595231,2.50421305 5.15550672,5.69542172 L5.25592055,10.2928885 C5.25592055,21.3385835 12.9598496,30.2928885 22.4631278,30.2928885 L167.864029,30.2928885 C177.367307,30.2928885 185.071236,21.3385835 185.071236,10.2928885 L185.071236,5.44852847 C185.308419,2.42162685 187.483523,0.0346149334 190.155016,0.000364967819 C190.167668,0.000202761133 126.782663,8.1105193e-05 0,0 Z"></path>
+                </g>
+                <g id="Front-Speaker" transform="translate(65.387387, 9.000000)" fill="url(#linearGradient-3)">
+                    <rect x="0" y="0" width="43.018018" height="5" rx="2.5"></rect>
+                </g>
+                <g id="Front-Camera-Copy" transform="translate(116.148649, 6.000000)">
+                    <g>
+                        <ellipse id="Camera-Shape" fill="#202022" cx="5" cy="6" rx="5" ry="6"></ellipse>
+                        <path d="M5,9.3622522 C6.50623114,9.3622522 7.72727273,7.89700229 7.72727273,6.08952493 C7.72727273,4.28204757 6.50623114,6.90770675 5,6.90770675 C3.49376886,6.90770675 2.27272727,4.28204757 2.27272727,6.08952493 C2.27272727,7.89700229 3.49376886,9.3622522 5,9.3622522 Z" id="Lens-Effect" fill="#133456" filter="url(#filter-4)"></path>
+                        <path d="M5,7.36363636 C6.50623114,7.36363636 7.72727273,8.08020464 7.72727273,6.27272727 C7.72727273,4.46524991 6.50623114,3.27272727 5,3.27272727 C3.49376886,3.27272727 2.27272727,4.46524991 2.27272727,6.27272727 C2.27272727,8.08020464 3.49376886,7.36363636 5,7.36363636 Z" id="Lens-Effect" fill="#2771BD" filter="url(#filter-5)"></path>
+                        <path d="M3.40909091,9.3622522 C3.70672325,9.3622522 6.18001938,9.05250915 6.36363636,8.84005303 C6.54725334,8.62759691 6.26756248,7.6568561 5.90909091,7.11986753 C5.41762936,6.38366065 6.45490948,4.39506294 6.36363636,3.61806132 C6.27236325,2.84105971 5.40249117,3.61806132 5.22727273,3.61806132 C4.59967642,3.61806132 4.54545455,6.31403663 4.54545455,7.11986753 C4.54545455,7.92569843 2.7814946,9.3622522 3.40909091,9.3622522 Z" id="Divider" fill="#000000" filter="url(#filter-6)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
